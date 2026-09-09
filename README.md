@@ -94,7 +94,8 @@ FoodDelivery_Prediction/
 
 Based on [Manoj00018/Food-Delivery-Time-Prediction](https://github.com/Manoj00018/Food-Delivery-Time-Prediction),
 licensed under Apache 2.0 (see `LICENSE`). This copy adds `requirements.txt`, `.gitignore`,
-the trained `.pkl` artefacts, and small fixes so the notebook runs locally instead of on Colab.
+and small fixes so the notebook runs locally instead of on Colab. The generated model
+artifacts are produced locally and ignored by git.
 
 ---
 
