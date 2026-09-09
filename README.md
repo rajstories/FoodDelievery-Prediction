@@ -85,8 +85,7 @@ FoodDelivery_Prediction/
 ├── LICENSE
 ├── Food_Delivery_Time_Prediction.ipynb   # the full, documented notebook
 ├── Food delivery.csv                     # dataset (45,593 orders)
-├── xgb_best.pkl                          # saved best model
-└── standard_scaler.pkl                   # saved scaler
+└── generated model artifacts are created locally and ignored by git
 ```
 
 ---
